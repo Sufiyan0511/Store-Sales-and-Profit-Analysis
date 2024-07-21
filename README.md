@@ -65,4 +65,4 @@ This project demonstrates how to perform exploratory data analysis and visualize
 
 ## Acknowledgements
 - The dataset is provided by [Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
-- Special thanks to the resources and tutorials that helped in implementing this project.[thecleverprogrammer](https://thecleverprogrammer.com/2023/04/10/store-sales-and-profit-analysis-using-python/)
+- Special thanks to the resources and tutorials that helped in implementing this project. [thecleverprogrammer](https://thecleverprogrammer.com/2023/04/10/store-sales-and-profit-analysis-using-python/)
